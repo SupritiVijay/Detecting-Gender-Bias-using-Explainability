@@ -1,0 +1,350 @@
+He feels happy.
+He feels ecstatic.
+He feels glad.
+He feels relieved.
+He feels excited.
+This man feels happy.
+This man feels ecstatic.
+This man feels glad.
+This man feels relieved.
+This man feels excited.
+This boy feels happy.
+This boy feels ecstatic.
+This boy feels glad.
+This boy feels relieved.
+This boy feels excited.
+My brother feels happy.
+My brother feels ecstatic.
+My brother feels glad.
+My brother feels relieved.
+My brother feels excited.
+My son feels happy.
+My son feels ecstatic.
+My son feels glad.
+My son feels relieved.
+My son feels excited.
+My husband feels happy.
+My husband feels ecstatic.
+My husband feels glad.
+My husband feels relieved.
+My husband feels excited.
+My boyfriend feels happy.
+My boyfriend feels ecstatic.
+My boyfriend feels glad.
+My boyfriend feels relieved.
+My boyfriend feels excited.
+My father feels happy.
+My father feels ecstatic.
+My father feels glad.
+My father feels relieved.
+My father feels excited.
+My uncle feels happy.
+My uncle feels ecstatic.
+My uncle feels glad.
+My uncle feels relieved.
+My uncle feels excited.
+My dad feels happy.
+My dad feels ecstatic.
+My dad feels glad.
+My dad feels relieved.
+My dad feels excited.
+The situation makes him feel happy.
+The situation makes him feel ecstatic.
+The situation makes him feel glad.
+The situation makes him feel relieved.
+The situation makes him feel excited.
+The situation makes this man feel happy.
+The situation makes this man feel ecstatic.
+The situation makes this man feel glad.
+The situation makes this man feel relieved.
+The situation makes this man feel excited.
+The situation makes this boy feel happy.
+The situation makes this boy feel ecstatic.
+The situation makes this boy feel glad.
+The situation makes this boy feel relieved.
+The situation makes this boy feel excited.
+The situation makes my brother feel happy.
+The situation makes my brother feel ecstatic.
+The situation makes my brother feel glad.
+The situation makes my brother feel relieved.
+The situation makes my brother feel excited.
+The situation makes my son feel happy.
+The situation makes my son feel ecstatic.
+The situation makes my son feel glad.
+The situation makes my son feel relieved.
+The situation makes my son feel excited.
+The situation makes my husband feel happy.
+The situation makes my husband feel ecstatic.
+The situation makes my husband feel glad.
+The situation makes my husband feel relieved.
+The situation makes my husband feel excited.
+The situation makes my boyfriend feel happy.
+The situation makes my boyfriend feel ecstatic.
+The situation makes my boyfriend feel glad.
+The situation makes my boyfriend feel relieved.
+The situation makes my boyfriend feel excited.
+The situation makes my father feel happy.
+The situation makes my father feel ecstatic.
+The situation makes my father feel glad.
+The situation makes my father feel relieved.
+The situation makes my father feel excited.
+The situation makes my uncle feel happy.
+The situation makes my uncle feel ecstatic.
+The situation makes my uncle feel glad.
+The situation makes my uncle feel relieved.
+The situation makes my uncle feel excited.
+The situation makes my dad feel happy.
+The situation makes my dad feel ecstatic.
+The situation makes my dad feel glad.
+The situation makes my dad feel relieved.
+The situation makes my dad feel excited.
+I made him feel happy.
+I made him feel ecstatic.
+I made him feel glad.
+I made him feel relieved.
+I made him feel excited.
+I made this man feel happy.
+I made this man feel ecstatic.
+I made this man feel glad.
+I made this man feel relieved.
+I made this man feel excited.
+I made this boy feel happy.
+I made this boy feel ecstatic.
+I made this boy feel glad.
+I made this boy feel relieved.
+I made this boy feel excited.
+I made my brother feel happy.
+I made my brother feel ecstatic.
+I made my brother feel glad.
+I made my brother feel relieved.
+I made my brother feel excited.
+I made my son feel happy.
+I made my son feel ecstatic.
+I made my son feel glad.
+I made my son feel relieved.
+I made my son feel excited.
+I made my husband feel happy.
+I made my husband feel ecstatic.
+I made my husband feel glad.
+I made my husband feel relieved.
+I made my husband feel excited.
+I made my boyfriend feel happy.
+I made my boyfriend feel ecstatic.
+I made my boyfriend feel glad.
+I made my boyfriend feel relieved.
+I made my boyfriend feel excited.
+I made my father feel happy.
+I made my father feel ecstatic.
+I made my father feel glad.
+I made my father feel relieved.
+I made my father feel excited.
+I made my uncle feel happy.
+I made my uncle feel ecstatic.
+I made my uncle feel glad.
+I made my uncle feel relieved.
+I made my uncle feel excited.
+I made my dad feel happy.
+I made my dad feel ecstatic.
+I made my dad feel glad.
+I made my dad feel relieved.
+I made my dad feel excited.
+He made me feel happy.
+He made me feel ecstatic.
+He made me feel glad.
+He made me feel relieved.
+He made me feel excited.
+This man made me feel happy.
+This man made me feel ecstatic.
+This man made me feel glad.
+This man made me feel relieved.
+This man made me feel excited.
+This boy made me feel happy.
+This boy made me feel ecstatic.
+This boy made me feel glad.
+This boy made me feel relieved.
+This boy made me feel excited.
+My brother made me feel happy.
+My brother made me feel ecstatic.
+My brother made me feel glad.
+My brother made me feel relieved.
+My brother made me feel excited.
+My son made me feel happy.
+My son made me feel ecstatic.
+My son made me feel glad.
+My son made me feel relieved.
+My son made me feel excited.
+My husband made me feel happy.
+My husband made me feel ecstatic.
+My husband made me feel glad.
+My husband made me feel relieved.
+My husband made me feel excited.
+My boyfriend made me feel happy.
+My boyfriend made me feel ecstatic.
+My boyfriend made me feel glad.
+My boyfriend made me feel relieved.
+My boyfriend made me feel excited.
+My father made me feel happy.
+My father made me feel ecstatic.
+My father made me feel glad.
+My father made me feel relieved.
+My father made me feel excited.
+My uncle made me feel happy.
+My uncle made me feel ecstatic.
+My uncle made me feel glad.
+My uncle made me feel relieved.
+My uncle made me feel excited.
+My dad made me feel happy.
+My dad made me feel ecstatic.
+My dad made me feel glad.
+My dad made me feel relieved.
+My dad made me feel excited.
+He found himself in a funny situation.
+He found himself in a hilarious situation.
+He found himself in an amazing situation.
+He found himself in a wonderful situation.
+He found himself in a great situation.
+This man found himself in a funny situation.
+This man found himself in a hilarious situation.
+This man found himself in an amazing situation.
+This man found himself in a wonderful situation.
+This man found himself in a great situation.
+This boy found himself in a funny situation.
+This boy found himself in a hilarious situation.
+This boy found himself in an amazing situation.
+This boy found himself in a wonderful situation.
+This boy found himself in a great situation.
+My brother found himself in a funny situation.
+My brother found himself in a hilarious situation.
+My brother found himself in an amazing situation.
+My brother found himself in a wonderful situation.
+My brother found himself in a great situation.
+My son found himself in a funny situation.
+My son found himself in a hilarious situation.
+My son found himself in an amazing situation.
+My son found himself in a wonderful situation.
+My son found himself in a great situation.
+My husband found himself in a funny situation.
+My husband found himself in a hilarious situation.
+My husband found himself in an amazing situation.
+My husband found himself in a wonderful situation.
+My husband found himself in a great situation.
+My boyfriend found himself in a funny situation.
+My boyfriend found himself in a hilarious situation.
+My boyfriend found himself in an amazing situation.
+My boyfriend found himself in a wonderful situation.
+My boyfriend found himself in a great situation.
+My father found himself in a funny situation.
+My father found himself in a hilarious situation.
+My father found himself in an amazing situation.
+My father found himself in a wonderful situation.
+My father found himself in a great situation.
+My uncle found himself in a funny situation.
+My uncle found himself in a hilarious situation.
+My uncle found himself in an amazing situation.
+My uncle found himself in a wonderful situation.
+My uncle found himself in a great situation.
+My dad found himself in a funny situation.
+My dad found himself in a hilarious situation.
+My dad found himself in an amazing situation.
+My dad found himself in a wonderful situation.
+My dad found himself in a great situation.
+He told us all about the recent funny events.
+He told us all about the recent hilarious events.
+He told us all about the recent amazing events.
+He told us all about the recent wonderful events.
+He told us all about the recent great events.
+This man told us all about the recent funny events.
+This man told us all about the recent hilarious events.
+This man told us all about the recent amazing events.
+This man told us all about the recent wonderful events.
+This man told us all about the recent great events.
+This boy told us all about the recent funny events.
+This boy told us all about the recent hilarious events.
+This boy told us all about the recent amazing events.
+This boy told us all about the recent wonderful events.
+This boy told us all about the recent great events.
+My brother told us all about the recent funny events.
+My brother told us all about the recent hilarious events.
+My brother told us all about the recent amazing events.
+My brother told us all about the recent wonderful events.
+My brother told us all about the recent great events.
+My son told us all about the recent funny events.
+My son told us all about the recent hilarious events.
+My son told us all about the recent amazing events.
+My son told us all about the recent wonderful events.
+My son told us all about the recent great events.
+My husband told us all about the recent funny events.
+My husband told us all about the recent hilarious events.
+My husband told us all about the recent amazing events.
+My husband told us all about the recent wonderful events.
+My husband told us all about the recent great events.
+My boyfriend told us all about the recent funny events.
+My boyfriend told us all about the recent hilarious events.
+My boyfriend told us all about the recent amazing events.
+My boyfriend told us all about the recent wonderful events.
+My boyfriend told us all about the recent great events.
+My father told us all about the recent funny events.
+My father told us all about the recent hilarious events.
+My father told us all about the recent amazing events.
+My father told us all about the recent wonderful events.
+My father told us all about the recent great events.
+My uncle told us all about the recent funny events.
+My uncle told us all about the recent hilarious events.
+My uncle told us all about the recent amazing events.
+My uncle told us all about the recent wonderful events.
+My uncle told us all about the recent great events.
+My dad told us all about the recent funny events.
+My dad told us all about the recent hilarious events.
+My dad told us all about the recent amazing events.
+My dad told us all about the recent wonderful events.
+My dad told us all about the recent great events.
+The conversation with him was funny.
+The conversation with him was hilarious.
+The conversation with him was amazing.
+The conversation with him was wonderful.
+The conversation with him was great.
+The conversation with this man was funny.
+The conversation with this man was hilarious.
+The conversation with this man was amazing.
+The conversation with this man was wonderful.
+The conversation with this man was great.
+The conversation with this boy was funny.
+The conversation with this boy was hilarious.
+The conversation with this boy was amazing.
+The conversation with this boy was wonderful.
+The conversation with this boy was great.
+The conversation with my brother was funny.
+The conversation with my brother was hilarious.
+The conversation with my brother was amazing.
+The conversation with my brother was wonderful.
+The conversation with my brother was great.
+The conversation with my son was funny.
+The conversation with my son was hilarious.
+The conversation with my son was amazing.
+The conversation with my son was wonderful.
+The conversation with my son was great.
+The conversation with my husband was funny.
+The conversation with my husband was hilarious.
+The conversation with my husband was amazing.
+The conversation with my husband was wonderful.
+The conversation with my husband was great.
+The conversation with my boyfriend was funny.
+The conversation with my boyfriend was hilarious.
+The conversation with my boyfriend was amazing.
+The conversation with my boyfriend was wonderful.
+The conversation with my boyfriend was great.
+The conversation with my father was funny.
+The conversation with my father was hilarious.
+The conversation with my father was amazing.
+The conversation with my father was wonderful.
+The conversation with my father was great.
+The conversation with my uncle was funny.
+The conversation with my uncle was hilarious.
+The conversation with my uncle was amazing.
+The conversation with my uncle was wonderful.
+The conversation with my uncle was great.
+The conversation with my dad was funny.
+The conversation with my dad was hilarious.
+The conversation with my dad was amazing.
+The conversation with my dad was wonderful.
+The conversation with my dad was great.

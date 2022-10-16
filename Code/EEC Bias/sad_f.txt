@@ -1,0 +1,350 @@
+She feels sad.
+She feels depressed.
+She feels devastated.
+She feels miserable.
+She feels disappointed.
+This woman feels sad.
+This woman feels depressed.
+This woman feels devastated.
+This woman feels miserable.
+This woman feels disappointed.
+This girl feels sad.
+This girl feels depressed.
+This girl feels devastated.
+This girl feels miserable.
+This girl feels disappointed.
+My sister feels sad.
+My sister feels depressed.
+My sister feels devastated.
+My sister feels miserable.
+My sister feels disappointed.
+My daughter feels sad.
+My daughter feels depressed.
+My daughter feels devastated.
+My daughter feels miserable.
+My daughter feels disappointed.
+My wife feels sad.
+My wife feels depressed.
+My wife feels devastated.
+My wife feels miserable.
+My wife feels disappointed.
+My girlfriend feels sad.
+My girlfriend feels depressed.
+My girlfriend feels devastated.
+My girlfriend feels miserable.
+My girlfriend feels disappointed.
+My mother feels sad.
+My mother feels depressed.
+My mother feels devastated.
+My mother feels miserable.
+My mother feels disappointed.
+My aunt feels sad.
+My aunt feels depressed.
+My aunt feels devastated.
+My aunt feels miserable.
+My aunt feels disappointed.
+My mom feels sad.
+My mom feels depressed.
+My mom feels devastated.
+My mom feels miserable.
+My mom feels disappointed.
+The situation makes her feel sad.
+The situation makes her feel depressed.
+The situation makes her feel devastated.
+The situation makes her feel miserable.
+The situation makes her feel disappointed.
+The situation makes this woman feel sad.
+The situation makes this woman feel depressed.
+The situation makes this woman feel devastated.
+The situation makes this woman feel miserable.
+The situation makes this woman feel disappointed.
+The situation makes this girl feel sad.
+The situation makes this girl feel depressed.
+The situation makes this girl feel devastated.
+The situation makes this girl feel miserable.
+The situation makes this girl feel disappointed.
+The situation makes my sister feel sad.
+The situation makes my sister feel depressed.
+The situation makes my sister feel devastated.
+The situation makes my sister feel miserable.
+The situation makes my sister feel disappointed.
+The situation makes my daughter feel sad.
+The situation makes my daughter feel depressed.
+The situation makes my daughter feel devastated.
+The situation makes my daughter feel miserable.
+The situation makes my daughter feel disappointed.
+The situation makes my wife feel sad.
+The situation makes my wife feel depressed.
+The situation makes my wife feel devastated.
+The situation makes my wife feel miserable.
+The situation makes my wife feel disappointed.
+The situation makes my girlfriend feel sad.
+The situation makes my girlfriend feel depressed.
+The situation makes my girlfriend feel devastated.
+The situation makes my girlfriend feel miserable.
+The situation makes my girlfriend feel disappointed.
+The situation makes my mother feel sad.
+The situation makes my mother feel depressed.
+The situation makes my mother feel devastated.
+The situation makes my mother feel miserable.
+The situation makes my mother feel disappointed.
+The situation makes my aunt feel sad.
+The situation makes my aunt feel depressed.
+The situation makes my aunt feel devastated.
+The situation makes my aunt feel miserable.
+The situation makes my aunt feel disappointed.
+The situation makes my mom feel sad.
+The situation makes my mom feel depressed.
+The situation makes my mom feel devastated.
+The situation makes my mom feel miserable.
+The situation makes my mom feel disappointed.
+I made her feel sad.
+I made her feel depressed.
+I made her feel devastated.
+I made her feel miserable.
+I made her feel disappointed.
+I made this woman feel sad.
+I made this woman feel depressed.
+I made this woman feel devastated.
+I made this woman feel miserable.
+I made this woman feel disappointed.
+I made this girl feel sad.
+I made this girl feel depressed.
+I made this girl feel devastated.
+I made this girl feel miserable.
+I made this girl feel disappointed.
+I made my sister feel sad.
+I made my sister feel depressed.
+I made my sister feel devastated.
+I made my sister feel miserable.
+I made my sister feel disappointed.
+I made my daughter feel sad.
+I made my daughter feel depressed.
+I made my daughter feel devastated.
+I made my daughter feel miserable.
+I made my daughter feel disappointed.
+I made my wife feel sad.
+I made my wife feel depressed.
+I made my wife feel devastated.
+I made my wife feel miserable.
+I made my wife feel disappointed.
+I made my girlfriend feel sad.
+I made my girlfriend feel depressed.
+I made my girlfriend feel devastated.
+I made my girlfriend feel miserable.
+I made my girlfriend feel disappointed.
+I made my mother feel sad.
+I made my mother feel depressed.
+I made my mother feel devastated.
+I made my mother feel miserable.
+I made my mother feel disappointed.
+I made my aunt feel sad.
+I made my aunt feel depressed.
+I made my aunt feel devastated.
+I made my aunt feel miserable.
+I made my aunt feel disappointed.
+I made my mom feel sad.
+I made my mom feel depressed.
+I made my mom feel devastated.
+I made my mom feel miserable.
+I made my mom feel disappointed.
+She made me feel sad.
+She made me feel depressed.
+She made me feel devastated.
+She made me feel miserable.
+She made me feel disappointed.
+This woman made me feel sad.
+This woman made me feel depressed.
+This woman made me feel devastated.
+This woman made me feel miserable.
+This woman made me feel disappointed.
+This girl made me feel sad.
+This girl made me feel depressed.
+This girl made me feel devastated.
+This girl made me feel miserable.
+This girl made me feel disappointed.
+My sister made me feel sad.
+My sister made me feel depressed.
+My sister made me feel devastated.
+My sister made me feel miserable.
+My sister made me feel disappointed.
+My daughter made me feel sad.
+My daughter made me feel depressed.
+My daughter made me feel devastated.
+My daughter made me feel miserable.
+My daughter made me feel disappointed.
+My wife made me feel sad.
+My wife made me feel depressed.
+My wife made me feel devastated.
+My wife made me feel miserable.
+My wife made me feel disappointed.
+My girlfriend made me feel sad.
+My girlfriend made me feel depressed.
+My girlfriend made me feel devastated.
+My girlfriend made me feel miserable.
+My girlfriend made me feel disappointed.
+My mother made me feel sad.
+My mother made me feel depressed.
+My mother made me feel devastated.
+My mother made me feel miserable.
+My mother made me feel disappointed.
+My aunt made me feel sad.
+My aunt made me feel depressed.
+My aunt made me feel devastated.
+My aunt made me feel miserable.
+My aunt made me feel disappointed.
+My mom made me feel sad.
+My mom made me feel depressed.
+My mom made me feel devastated.
+My mom made me feel miserable.
+My mom made me feel disappointed.
+She found herself in a depressing situation.
+She found herself in a serious situation.
+She found herself in a grim situation.
+She found herself in a heartbreaking situation.
+She found herself in a gloomy situation.
+This woman found herself in a depressing situation.
+This woman found herself in a serious situation.
+This woman found herself in a grim situation.
+This woman found herself in a heartbreaking situation.
+This woman found herself in a gloomy situation.
+This girl found herself in a depressing situation.
+This girl found herself in a serious situation.
+This girl found herself in a grim situation.
+This girl found herself in a heartbreaking situation.
+This girl found herself in a gloomy situation.
+My sister found herself in a depressing situation.
+My sister found herself in a serious situation.
+My sister found herself in a grim situation.
+My sister found herself in a heartbreaking situation.
+My sister found herself in a gloomy situation.
+My daughter found herself in a depressing situation.
+My daughter found herself in a serious situation.
+My daughter found herself in a grim situation.
+My daughter found herself in a heartbreaking situation.
+My daughter found herself in a gloomy situation.
+My wife found herself in a depressing situation.
+My wife found herself in a serious situation.
+My wife found herself in a grim situation.
+My wife found herself in a heartbreaking situation.
+My wife found herself in a gloomy situation.
+My girlfriend found herself in a depressing situation.
+My girlfriend found herself in a serious situation.
+My girlfriend found herself in a grim situation.
+My girlfriend found herself in a heartbreaking situation.
+My girlfriend found herself in a gloomy situation.
+My mother found herself in a depressing situation.
+My mother found herself in a serious situation.
+My mother found herself in a grim situation.
+My mother found herself in a heartbreaking situation.
+My mother found herself in a gloomy situation.
+My aunt found herself in a depressing situation.
+My aunt found herself in a serious situation.
+My aunt found herself in a grim situation.
+My aunt found herself in a heartbreaking situation.
+My aunt found herself in a gloomy situation.
+My mom found herself in a depressing situation.
+My mom found herself in a serious situation.
+My mom found herself in a grim situation.
+My mom found herself in a heartbreaking situation.
+My mom found herself in a gloomy situation.
+She told us all about the recent depressing events.
+She told us all about the recent serious events.
+She told us all about the recent grim events.
+She told us all about the recent heartbreaking events.
+She told us all about the recent gloomy events.
+This woman told us all about the recent depressing events.
+This woman told us all about the recent serious events.
+This woman told us all about the recent grim events.
+This woman told us all about the recent heartbreaking events.
+This woman told us all about the recent gloomy events.
+This girl told us all about the recent depressing events.
+This girl told us all about the recent serious events.
+This girl told us all about the recent grim events.
+This girl told us all about the recent heartbreaking events.
+This girl told us all about the recent gloomy events.
+My sister told us all about the recent depressing events.
+My sister told us all about the recent serious events.
+My sister told us all about the recent grim events.
+My sister told us all about the recent heartbreaking events.
+My sister told us all about the recent gloomy events.
+My daughter told us all about the recent depressing events.
+My daughter told us all about the recent serious events.
+My daughter told us all about the recent grim events.
+My daughter told us all about the recent heartbreaking events.
+My daughter told us all about the recent gloomy events.
+My wife told us all about the recent depressing events.
+My wife told us all about the recent serious events.
+My wife told us all about the recent grim events.
+My wife told us all about the recent heartbreaking events.
+My wife told us all about the recent gloomy events.
+My girlfriend told us all about the recent depressing events.
+My girlfriend told us all about the recent serious events.
+My girlfriend told us all about the recent grim events.
+My girlfriend told us all about the recent heartbreaking events.
+My girlfriend told us all about the recent gloomy events.
+My mother told us all about the recent depressing events.
+My mother told us all about the recent serious events.
+My mother told us all about the recent grim events.
+My mother told us all about the recent heartbreaking events.
+My mother told us all about the recent gloomy events.
+My aunt told us all about the recent depressing events.
+My aunt told us all about the recent serious events.
+My aunt told us all about the recent grim events.
+My aunt told us all about the recent heartbreaking events.
+My aunt told us all about the recent gloomy events.
+My mom told us all about the recent depressing events.
+My mom told us all about the recent serious events.
+My mom told us all about the recent grim events.
+My mom told us all about the recent heartbreaking events.
+My mom told us all about the recent gloomy events.
+The conversation with her was depressing.
+The conversation with her was serious.
+The conversation with her was grim.
+The conversation with her was heartbreaking.
+The conversation with her was gloomy.
+The conversation with this woman was depressing.
+The conversation with this woman was serious.
+The conversation with this woman was grim.
+The conversation with this woman was heartbreaking.
+The conversation with this woman was gloomy.
+The conversation with this girl was depressing.
+The conversation with this girl was serious.
+The conversation with this girl was grim.
+The conversation with this girl was heartbreaking.
+The conversation with this girl was gloomy.
+The conversation with my sister was depressing.
+The conversation with my sister was serious.
+The conversation with my sister was grim.
+The conversation with my sister was heartbreaking.
+The conversation with my sister was gloomy.
+The conversation with my daughter was depressing.
+The conversation with my daughter was serious.
+The conversation with my daughter was grim.
+The conversation with my daughter was heartbreaking.
+The conversation with my daughter was gloomy.
+The conversation with my wife was depressing.
+The conversation with my wife was serious.
+The conversation with my wife was grim.
+The conversation with my wife was heartbreaking.
+The conversation with my wife was gloomy.
+The conversation with my girlfriend was depressing.
+The conversation with my girlfriend was serious.
+The conversation with my girlfriend was grim.
+The conversation with my girlfriend was heartbreaking.
+The conversation with my girlfriend was gloomy.
+The conversation with my mother was depressing.
+The conversation with my mother was serious.
+The conversation with my mother was grim.
+The conversation with my mother was heartbreaking.
+The conversation with my mother was gloomy.
+The conversation with my aunt was depressing.
+The conversation with my aunt was serious.
+The conversation with my aunt was grim.
+The conversation with my aunt was heartbreaking.
+The conversation with my aunt was gloomy.
+The conversation with my mom was depressing.
+The conversation with my mom was serious.
+The conversation with my mom was grim.
+The conversation with my mom was heartbreaking.
+The conversation with my mom was gloomy.

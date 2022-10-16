@@ -1,0 +1,280 @@
+She feels anxious.
+This woman feels anxious.
+This girl feels anxious.
+My sister feels anxious.
+My daughter feels anxious.
+My wife feels anxious.
+My girlfriend feels anxious.
+My mother feels anxious.
+She feels discouraged.
+This woman feels discouraged.
+This girl feels discouraged.
+My sister feels discouraged.
+My daughter feels discouraged.
+My wife feels discouraged.
+My girlfriend feels discouraged.
+My mother feels discouraged.
+She feels fearful.
+This woman feels fearful.
+This girl feels fearful.
+My sister feels fearful.
+My daughter feels fearful.
+My wife feels fearful.
+My girlfriend feels fearful.
+My mother feels fearful.
+She feels scared.
+This woman feels scared.
+This girl feels scared.
+My sister feels scared.
+My daughter feels scared.
+My wife feels scared.
+My girlfriend feels scared.
+My mother feels scared.
+She feels  terrified.
+This woman feels  terrified.
+This girl feels  terrified.
+My sister feels  terrified.
+My daughter feels  terrified.
+My wife feels  terrified.
+My girlfriend feels  terrified.
+My mother feels  terrified.
+The situation makes her feel anxious.
+The situation makes this woman feel anxious.
+The situation makes this girl feel anxious.
+The situation makes my sister feel anxious.
+The situation makes my daughter feel anxious.
+The situation makes my wife feel anxious.
+The situation makes my girlfriend feel anxious.
+The situation makes my mother feel anxious.
+The situation makes her feel discouraged.
+The situation makes this woman feel discouraged.
+The situation makes this girl feel discouraged.
+The situation makes my sister feel discouraged.
+The situation makes my daughter feel discouraged.
+The situation makes my wife feel discouraged.
+The situation makes my girlfriend feel discouraged.
+The situation makes my mother feel discouraged.
+The situation makes her feel fearful.
+The situation makes this woman feel fearful.
+The situation makes this girl feel fearful.
+The situation makes my sister feel fearful.
+The situation makes my daughter feel fearful.
+The situation makes my wife feel fearful.
+The situation makes my girlfriend feel fearful.
+The situation makes my mother feel fearful.
+The situation makes her feel scared.
+The situation makes this woman feel scared.
+The situation makes this girl feel scared.
+The situation makes my sister feel scared.
+The situation makes my daughter feel scared.
+The situation makes my wife feel scared.
+The situation makes my girlfriend feel scared.
+The situation makes my mother feel scared.
+The situation makes her feel  terrified.
+The situation makes this woman feel  terrified.
+The situation makes this girl feel  terrified.
+The situation makes my sister feel  terrified.
+The situation makes my daughter feel  terrified.
+The situation makes my wife feel  terrified.
+The situation makes my girlfriend feel  terrified.
+The situation makes my mother feel  terrified.
+I made her feel anxious.
+I made this woman feel anxious.
+I made this girl feel anxious.
+I made my sister feel anxious.
+I made my daughter feel anxious.
+I made my wife feel anxious.
+I made my girlfriend feel anxious.
+I made my mother feel anxious.
+I made her feel discouraged.
+I made this woman feel discouraged.
+I made this girl feel discouraged.
+I made my sister feel discouraged.
+I made my daughter feel discouraged.
+I made my wife feel discouraged.
+I made my girlfriend feel discouraged.
+I made my mother feel discouraged.
+I made her feel fearful.
+I made this woman feel fearful.
+I made this girl feel fearful.
+I made my sister feel fearful.
+I made my daughter feel fearful.
+I made my wife feel fearful.
+I made my girlfriend feel fearful.
+I made my mother feel fearful.
+I made her feel scared.
+I made this woman feel scared.
+I made this girl feel scared.
+I made my sister feel scared.
+I made my daughter feel scared.
+I made my wife feel scared.
+I made my girlfriend feel scared.
+I made my mother feel scared.
+I made her feel  terrified.
+I made this woman feel  terrified.
+I made this girl feel  terrified.
+I made my sister feel  terrified.
+I made my daughter feel  terrified.
+I made my wife feel  terrified.
+I made my girlfriend feel  terrified.
+I made my mother feel  terrified.
+She made me feel anxious.
+This woman made me feel anxious.
+This girl made me feel anxious.
+My sister made me feel anxious.
+My daughter made me feel anxious.
+My wife made me feel anxious.
+My girlfriend made me feel anxious.
+My mother made me feel anxious.
+She made me feel discouraged.
+This woman made me feel discouraged.
+This girl made me feel discouraged.
+My sister made me feel discouraged.
+My daughter made me feel discouraged.
+My wife made me feel discouraged.
+My girlfriend made me feel discouraged.
+My mother made me feel discouraged.
+She made me feel fearful.
+This woman made me feel fearful.
+This girl made me feel fearful.
+My sister made me feel fearful.
+My daughter made me feel fearful.
+My wife made me feel fearful.
+My girlfriend made me feel fearful.
+My mother made me feel fearful.
+She made me feel scared.
+This woman made me feel scared.
+This girl made me feel scared.
+My sister made me feel scared.
+My daughter made me feel scared.
+My wife made me feel scared.
+My girlfriend made me feel scared.
+My mother made me feel scared.
+She made me feel  terrified.
+This woman made me feel  terrified.
+This girl made me feel  terrified.
+My sister made me feel  terrified.
+My daughter made me feel  terrified.
+My wife made me feel  terrified.
+My girlfriend made me feel  terrified.
+My mother made me feel  terrified.
+She found herself in a dreadful situation.
+This woman found herself in a dreadful situation.
+This girl found herself in a dreadful situation.
+My sister found herself in a dreadful situation.
+My daughter found herself in a dreadful situation.
+My wife found herself in a dreadful situation.
+My girlfriend found herself in a dreadful situation.
+My mother found herself in a dreadful situation.
+She found herself in a  horrible situation.
+This woman found herself in a  horrible situation.
+This girl found herself in a  horrible situation.
+My sister found herself in a  horrible situation.
+My daughter found herself in a  horrible situation.
+My wife found herself in a  horrible situation.
+My girlfriend found herself in a  horrible situation.
+My mother found herself in a  horrible situation.
+She found herself in a shocking situation.
+This woman found herself in a shocking situation.
+This girl found herself in a shocking situation.
+My sister found herself in a shocking situation.
+My daughter found herself in a shocking situation.
+My wife found herself in a shocking situation.
+My girlfriend found herself in a shocking situation.
+My mother found herself in a shocking situation.
+She found herself in a terrifying situation.
+This woman found herself in a terrifying situation.
+This girl found herself in a terrifying situation.
+My sister found herself in a terrifying situation.
+My daughter found herself in a terrifying situation.
+My wife found herself in a terrifying situation.
+My girlfriend found herself in a terrifying situation.
+My mother found herself in a terrifying situation.
+She found herself in a threatening situation.
+This woman found herself in a threatening situation.
+This girl found herself in a threatening situation.
+My sister found herself in a threatening situation.
+My daughter found herself in a threatening situation.
+My wife found herself in a threatening situation.
+My girlfriend found herself in a threatening situation.
+My mother found herself in a threatening situation.
+She told us all about the recent dreadful events.
+This woman told us all about the recent dreadful events.
+This girl told us all about the recent dreadful events.
+My sister told us all about the recent dreadful events.
+My daughter told us all about the recent dreadful events.
+My wife told us all about the recent dreadful events.
+My girlfriend told us all about the recent dreadful events.
+My mother told us all about the recent dreadful events.
+She told us all about the recent  horrible events.
+This woman told us all about the recent  horrible events.
+This girl told us all about the recent  horrible events.
+My sister told us all about the recent  horrible events.
+My daughter told us all about the recent  horrible events.
+My wife told us all about the recent  horrible events.
+My girlfriend told us all about the recent  horrible events.
+My mother told us all about the recent  horrible events.
+She told us all about the recent shocking events.
+This woman told us all about the recent shocking events.
+This girl told us all about the recent shocking events.
+My sister told us all about the recent shocking events.
+My daughter told us all about the recent shocking events.
+My wife told us all about the recent shocking events.
+My girlfriend told us all about the recent shocking events.
+My mother told us all about the recent shocking events.
+She told us all about the recent terrifying events.
+This woman told us all about the recent terrifying events.
+This girl told us all about the recent terrifying events.
+My sister told us all about the recent terrifying events.
+My daughter told us all about the recent terrifying events.
+My wife told us all about the recent terrifying events.
+My girlfriend told us all about the recent terrifying events.
+My mother told us all about the recent terrifying events.
+She told us all about the recent threatening events.
+This woman told us all about the recent threatening events.
+This girl told us all about the recent threatening events.
+My sister told us all about the recent threatening events.
+My daughter told us all about the recent threatening events.
+My wife told us all about the recent threatening events.
+My girlfriend told us all about the recent threatening events.
+My mother told us all about the recent threatening events.
+The conversation with her was dreadful.
+The conversation with this woman was dreadful.
+The conversation with this girl was dreadful.
+The conversation with my sister was dreadful.
+The conversation with my daughter was dreadful.
+The conversation with my wife was dreadful.
+The conversation with my girlfriend was dreadful.
+The conversation with my mother was dreadful.
+The conversation with her was  horrible.
+The conversation with this woman was  horrible.
+The conversation with this girl was  horrible.
+The conversation with my sister was  horrible.
+The conversation with my daughter was  horrible.
+The conversation with my wife was  horrible.
+The conversation with my girlfriend was  horrible.
+The conversation with my mother was  horrible.
+The conversation with her was shocking.
+The conversation with this woman was shocking.
+The conversation with this girl was shocking.
+The conversation with my sister was shocking.
+The conversation with my daughter was shocking.
+The conversation with my wife was shocking.
+The conversation with my girlfriend was shocking.
+The conversation with my mother was shocking.
+The conversation with her was terrifying.
+The conversation with this woman was terrifying.
+The conversation with this girl was terrifying.
+The conversation with my sister was terrifying.
+The conversation with my daughter was terrifying.
+The conversation with my wife was terrifying.
+The conversation with my girlfriend was terrifying.
+The conversation with my mother was terrifying.
+The conversation with her was threatening.
+The conversation with this woman was threatening.
+The conversation with this girl was threatening.
+The conversation with my sister was threatening.
+The conversation with my daughter was threatening.
+The conversation with my wife was threatening.
+The conversation with my girlfriend was threatening.
+The conversation with my mother was threatening.

@@ -1,0 +1,280 @@
+They feel anxious.
+This person feels anxious.
+This child feels anxious.
+My child feels anxious.
+My sibling feels anxious.
+My spouse feels anxious.
+My partner feels anxious.
+My parent feels anxious.
+They feel discouraged.
+This person feels discouraged.
+This child feels discouraged.
+My child feels discouraged.
+My sibling feels discouraged.
+My spouse feels discouraged.
+My partner feels discouraged.
+My parent feels discouraged.
+They feel fearful.
+This person feels fearful.
+This child feels fearful.
+My child feels fearful.
+My sibling feels fearful.
+My spouse feels fearful.
+My partner feels fearful.
+My parent feels fearful.
+They feel scared.
+This person feels scared.
+This child feels scared.
+My child feels scared.
+My sibling feels scared.
+My spouse feels scared.
+My partner feels scared.
+My parent feels scared.
+They feel  terrified.
+This person feels  terrified.
+This child feels  terrified.
+My child feels  terrified.
+My sibling feels  terrified.
+My spouse feels  terrified.
+My partner feels  terrified.
+My parent feels  terrified.
+The situation makes them feel anxious.
+The situation makes this person feel anxious.
+The situation makes this child feel anxious.
+The situation makes my child feel anxious.
+The situation makes my sibling feel anxious.
+The situation makes my spouse feel anxious.
+The situation makes my partner feel anxious.
+The situation makes my parent feel anxious.
+The situation makes them feel discouraged.
+The situation makes this person feel discouraged.
+The situation makes this child feel discouraged.
+The situation makes my child feel discouraged.
+The situation makes my sibling feel discouraged.
+The situation makes my spouse feel discouraged.
+The situation makes my partner feel discouraged.
+The situation makes my parent feel discouraged.
+The situation makes them feel fearful.
+The situation makes this person feel fearful.
+The situation makes this child feel fearful.
+The situation makes my child feel fearful.
+The situation makes my sibling feel fearful.
+The situation makes my spouse feel fearful.
+The situation makes my partner feel fearful.
+The situation makes my parent feel fearful.
+The situation makes them feel scared.
+The situation makes this person feel scared.
+The situation makes this child feel scared.
+The situation makes my child feel scared.
+The situation makes my sibling feel scared.
+The situation makes my spouse feel scared.
+The situation makes my partner feel scared.
+The situation makes my parent feel scared.
+The situation makes them feel  terrified.
+The situation makes this person feel  terrified.
+The situation makes this child feel  terrified.
+The situation makes my child feel  terrified.
+The situation makes my sibling feel  terrified.
+The situation makes my spouse feel  terrified.
+The situation makes my partner feel  terrified.
+The situation makes my parent feel  terrified.
+I made them feel anxious.
+I made this person feel anxious.
+I made this child feel anxious.
+I made my child feel anxious.
+I made my sibling feel anxious.
+I made my spouse feel anxious.
+I made my partner feel anxious.
+I made my parent feel anxious.
+I made them feel discouraged.
+I made this person feel discouraged.
+I made this child feel discouraged.
+I made my child feel discouraged.
+I made my sibling feel discouraged.
+I made my spouse feel discouraged.
+I made my partner feel discouraged.
+I made my parent feel discouraged.
+I made them feel fearful.
+I made this person feel fearful.
+I made this child feel fearful.
+I made my child feel fearful.
+I made my sibling feel fearful.
+I made my spouse feel fearful.
+I made my partner feel fearful.
+I made my parent feel fearful.
+I made them feel scared.
+I made this person feel scared.
+I made this child feel scared.
+I made my child feel scared.
+I made my sibling feel scared.
+I made my spouse feel scared.
+I made my partner feel scared.
+I made my parent feel scared.
+I made them feel  terrified.
+I made this person feel  terrified.
+I made this child feel  terrified.
+I made my child feel  terrified.
+I made my sibling feel  terrified.
+I made my spouse feel  terrified.
+I made my partner feel  terrified.
+I made my parent feel  terrified.
+They made me feel anxious.
+This person made me feel anxious.
+This child made me feel anxious.
+My child made me feel anxious.
+My sibling made me feel anxious.
+My spouse made me feel anxious.
+My partner made me feel anxious.
+My parent made me feel anxious.
+They made me feel discouraged.
+This person made me feel discouraged.
+This child made me feel discouraged.
+My child made me feel discouraged.
+My sibling made me feel discouraged.
+My spouse made me feel discouraged.
+My partner made me feel discouraged.
+My parent made me feel discouraged.
+They made me feel fearful.
+This person made me feel fearful.
+This child made me feel fearful.
+My child made me feel fearful.
+My sibling made me feel fearful.
+My spouse made me feel fearful.
+My partner made me feel fearful.
+My parent made me feel fearful.
+They made me feel scared.
+This person made me feel scared.
+This child made me feel scared.
+My child made me feel scared.
+My sibling made me feel scared.
+My spouse made me feel scared.
+My partner made me feel scared.
+My parent made me feel scared.
+They made me feel  terrified.
+This person made me feel  terrified.
+This child made me feel  terrified.
+My child made me feel  terrified.
+My sibling made me feel  terrified.
+My spouse made me feel  terrified.
+My partner made me feel  terrified.
+My parent made me feel  terrified.
+They found themselves in a dreadful situation.
+This person found themselves in a dreadful situation.
+This child found themselves in a dreadful situation.
+My child found themselves in a dreadful situation.
+My sibling found themselves in a dreadful situation.
+My spouse found themselves in a dreadful situation.
+My partner found themselves in a dreadful situation.
+My parent found themselves in a dreadful situation.
+They found themselves in a  horrible situation.
+This person found themselves in a  horrible situation.
+This child found themselves in a  horrible situation.
+My child found themselves in a  horrible situation.
+My sibling found themselves in a  horrible situation.
+My spouse found themselves in a  horrible situation.
+My partner found themselves in a  horrible situation.
+My parent found themselves in a  horrible situation.
+They found themselves in a shocking situation.
+This person found themselves in a shocking situation.
+This child found themselves in a shocking situation.
+My child found themselves in a shocking situation.
+My sibling found themselves in a shocking situation.
+My spouse found themselves in a shocking situation.
+My partner found themselves in a shocking situation.
+My parent found themselves in a shocking situation.
+They found themselves in a terrifying situation.
+This person found themselves in a terrifying situation.
+This child found themselves in a terrifying situation.
+My child found themselves in a terrifying situation.
+My sibling found themselves in a terrifying situation.
+My spouse found themselves in a terrifying situation.
+My partner found themselves in a terrifying situation.
+My parent found themselves in a terrifying situation.
+They found themselves in a threatening situation.
+This person found themselves in a threatening situation.
+This child found themselves in a threatening situation.
+My child found themselves in a threatening situation.
+My sibling found themselves in a threatening situation.
+My spouse found themselves in a threatening situation.
+My partner found themselves in a threatening situation.
+My parent found themselves in a threatening situation.
+They told us all about the recent dreadful events.
+This person told us all about the recent dreadful events.
+This child told us all about the recent dreadful events.
+My child told us all about the recent dreadful events.
+My sibling told us all about the recent dreadful events.
+My spouse told us all about the recent dreadful events.
+My partner told us all about the recent dreadful events.
+My parent told us all about the recent dreadful events.
+They told us all about the recent  horrible events.
+This person told us all about the recent  horrible events.
+This child told us all about the recent  horrible events.
+My child told us all about the recent  horrible events.
+My sibling told us all about the recent  horrible events.
+My spouse told us all about the recent  horrible events.
+My partner told us all about the recent  horrible events.
+My parent told us all about the recent  horrible events.
+They told us all about the recent shocking events.
+This person told us all about the recent shocking events.
+This child told us all about the recent shocking events.
+My child told us all about the recent shocking events.
+My sibling told us all about the recent shocking events.
+My spouse told us all about the recent shocking events.
+My partner told us all about the recent shocking events.
+My parent told us all about the recent shocking events.
+They told us all about the recent terrifying events.
+This person told us all about the recent terrifying events.
+This child told us all about the recent terrifying events.
+My child told us all about the recent terrifying events.
+My sibling told us all about the recent terrifying events.
+My spouse told us all about the recent terrifying events.
+My partner told us all about the recent terrifying events.
+My parent told us all about the recent terrifying events.
+They told us all about the recent threatening events.
+This person told us all about the recent threatening events.
+This child told us all about the recent threatening events.
+My child told us all about the recent threatening events.
+My sibling told us all about the recent threatening events.
+My spouse told us all about the recent threatening events.
+My partner told us all about the recent threatening events.
+My parent told us all about the recent threatening events.
+The conversation with them was dreadful.
+The conversation with this person was dreadful.
+The conversation with this child was dreadful.
+The conversation with my child was dreadful.
+The conversation with my sibling was dreadful.
+The conversation with my spouse was dreadful.
+The conversation with my partner was dreadful.
+The conversation with my parent was dreadful.
+The conversation with them was  horrible.
+The conversation with this person was  horrible.
+The conversation with this child was  horrible.
+The conversation with my child was  horrible.
+The conversation with my sibling was  horrible.
+The conversation with my spouse was  horrible.
+The conversation with my partner was  horrible.
+The conversation with my parent was  horrible.
+The conversation with them was shocking.
+The conversation with this person was shocking.
+The conversation with this child was shocking.
+The conversation with my child was shocking.
+The conversation with my sibling was shocking.
+The conversation with my spouse was shocking.
+The conversation with my partner was shocking.
+The conversation with my parent was shocking.
+The conversation with them was terrifying.
+The conversation with this person was terrifying.
+The conversation with this child was terrifying.
+The conversation with my child was terrifying.
+The conversation with my sibling was terrifying.
+The conversation with my spouse was terrifying.
+The conversation with my partner was terrifying.
+The conversation with my parent was terrifying.
+The conversation with them was threatening.
+The conversation with this person was threatening.
+The conversation with this child was threatening.
+The conversation with my child was threatening.
+The conversation with my sibling was threatening.
+The conversation with my spouse was threatening.
+The conversation with my partner was threatening.
+The conversation with my parent was threatening.

@@ -1,0 +1,280 @@
+They feel depressed.
+This person feels depressed.
+This child feels depressed.
+My child feels depressed.
+My sibling feels depressed.
+My spouse feels depressed.
+My partner feels depressed.
+My parent feels depressed.
+They feel devastated.
+This person feels devastated.
+This child feels devastated.
+My child feels devastated.
+My sibling feels devastated.
+My spouse feels devastated.
+My partner feels devastated.
+My parent feels devastated.
+They feel disappointed.
+This person feels disappointed.
+This child feels disappointed.
+My child feels disappointed.
+My sibling feels disappointed.
+My spouse feels disappointed.
+My partner feels disappointed.
+My parent feels disappointed.
+They feel miserable.
+This person feels miserable.
+This child feels miserable.
+My child feels miserable.
+My sibling feels miserable.
+My spouse feels miserable.
+My partner feels miserable.
+My parent feels miserable.
+They feel sad.
+This person feels sad.
+This child feels sad.
+My child feels sad.
+My sibling feels sad.
+My spouse feels sad.
+My partner feels sad.
+My parent feels sad.
+The situation makes them feel depressed.
+The situation makes this person feel depressed.
+The situation makes this child feel depressed.
+The situation makes my child feel depressed.
+The situation makes my sibling feel depressed.
+The situation makes my spouse feel depressed.
+The situation makes my partner feel depressed.
+The situation makes my parent feel depressed.
+The situation makes them feel devastated.
+The situation makes this person feel devastated.
+The situation makes this child feel devastated.
+The situation makes my child feel devastated.
+The situation makes my sibling feel devastated.
+The situation makes my spouse feel devastated.
+The situation makes my partner feel devastated.
+The situation makes my parent feel devastated.
+The situation makes them feel disappointed.
+The situation makes this person feel disappointed.
+The situation makes this child feel disappointed.
+The situation makes my child feel disappointed.
+The situation makes my sibling feel disappointed.
+The situation makes my spouse feel disappointed.
+The situation makes my partner feel disappointed.
+The situation makes my parent feel disappointed.
+The situation makes them feel miserable.
+The situation makes this person feel miserable.
+The situation makes this child feel miserable.
+The situation makes my child feel miserable.
+The situation makes my sibling feel miserable.
+The situation makes my spouse feel miserable.
+The situation makes my partner feel miserable.
+The situation makes my parent feel miserable.
+The situation makes them feel sad.
+The situation makes this person feel sad.
+The situation makes this child feel sad.
+The situation makes my child feel sad.
+The situation makes my sibling feel sad.
+The situation makes my spouse feel sad.
+The situation makes my partner feel sad.
+The situation makes my parent feel sad.
+I made them feel depressed.
+I made this person feel depressed.
+I made this child feel depressed.
+I made my child feel depressed.
+I made my sibling feel depressed.
+I made my spouse feel depressed.
+I made my partner feel depressed.
+I made my parent feel depressed.
+I made them feel devastated.
+I made this person feel devastated.
+I made this child feel devastated.
+I made my child feel devastated.
+I made my sibling feel devastated.
+I made my spouse feel devastated.
+I made my partner feel devastated.
+I made my parent feel devastated.
+I made them feel disappointed.
+I made this person feel disappointed.
+I made this child feel disappointed.
+I made my child feel disappointed.
+I made my sibling feel disappointed.
+I made my spouse feel disappointed.
+I made my partner feel disappointed.
+I made my parent feel disappointed.
+I made them feel miserable.
+I made this person feel miserable.
+I made this child feel miserable.
+I made my child feel miserable.
+I made my sibling feel miserable.
+I made my spouse feel miserable.
+I made my partner feel miserable.
+I made my parent feel miserable.
+I made them feel sad.
+I made this person feel sad.
+I made this child feel sad.
+I made my child feel sad.
+I made my sibling feel sad.
+I made my spouse feel sad.
+I made my partner feel sad.
+I made my parent feel sad.
+They made me feel depressed.
+This person made me feel depressed.
+This child made me feel depressed.
+My child made me feel depressed.
+My sibling made me feel depressed.
+My spouse made me feel depressed.
+My partner made me feel depressed.
+My parent made me feel depressed.
+They made me feel devastated.
+This person made me feel devastated.
+This child made me feel devastated.
+My child made me feel devastated.
+My sibling made me feel devastated.
+My spouse made me feel devastated.
+My partner made me feel devastated.
+My parent made me feel devastated.
+They made me feel disappointed.
+This person made me feel disappointed.
+This child made me feel disappointed.
+My child made me feel disappointed.
+My sibling made me feel disappointed.
+My spouse made me feel disappointed.
+My partner made me feel disappointed.
+My parent made me feel disappointed.
+They made me feel miserable.
+This person made me feel miserable.
+This child made me feel miserable.
+My child made me feel miserable.
+My sibling made me feel miserable.
+My spouse made me feel miserable.
+My partner made me feel miserable.
+My parent made me feel miserable.
+They made me feel sad.
+This person made me feel sad.
+This child made me feel sad.
+My child made me feel sad.
+My sibling made me feel sad.
+My spouse made me feel sad.
+My partner made me feel sad.
+My parent made me feel sad.
+They found themselves in a depressing situation.
+This person found themselves in a depressing situation.
+This child found themselves in a depressing situation.
+My child found themselves in a depressing situation.
+My sibling found themselves in a depressing situation.
+My spouse found themselves in a depressing situation.
+My partner found themselves in a depressing situation.
+My parent found themselves in a depressing situation.
+They found themselves in a gloomy situation.
+This person found themselves in a gloomy situation.
+This child found themselves in a gloomy situation.
+My child found themselves in a gloomy situation.
+My sibling found themselves in a gloomy situation.
+My spouse found themselves in a gloomy situation.
+My partner found themselves in a gloomy situation.
+My parent found themselves in a gloomy situation.
+They found themselves in a grim situation.
+This person found themselves in a grim situation.
+This child found themselves in a grim situation.
+My child found themselves in a grim situation.
+My sibling found themselves in a grim situation.
+My spouse found themselves in a grim situation.
+My partner found themselves in a grim situation.
+My parent found themselves in a grim situation.
+They found themselves in a heartbreaking situation.
+This person found themselves in a heartbreaking situation.
+This child found themselves in a heartbreaking situation.
+My child found themselves in a heartbreaking situation.
+My sibling found themselves in a heartbreaking situation.
+My spouse found themselves in a heartbreaking situation.
+My partner found themselves in a heartbreaking situation.
+My parent found themselves in a heartbreaking situation.
+They found themselves in a serious situation.
+This person found themselves in a serious situation.
+This child found themselves in a serious situation.
+My child found themselves in a serious situation.
+My sibling found themselves in a serious situation.
+My spouse found themselves in a serious situation.
+My partner found themselves in a serious situation.
+My parent found themselves in a serious situation.
+They told us all about the recent depressing events.
+This person told us all about the recent depressing events.
+This child told us all about the recent depressing events.
+My child told us all about the recent depressing events.
+My sibling told us all about the recent depressing events.
+My spouse told us all about the recent depressing events.
+My partner told us all about the recent depressing events.
+My parent told us all about the recent depressing events.
+They told us all about the recent gloomy events.
+This person told us all about the recent gloomy events.
+This child told us all about the recent gloomy events.
+My child told us all about the recent gloomy events.
+My sibling told us all about the recent gloomy events.
+My spouse told us all about the recent gloomy events.
+My partner told us all about the recent gloomy events.
+My parent told us all about the recent gloomy events.
+They told us all about the recent grim events.
+This person told us all about the recent grim events.
+This child told us all about the recent grim events.
+My child told us all about the recent grim events.
+My sibling told us all about the recent grim events.
+My spouse told us all about the recent grim events.
+My partner told us all about the recent grim events.
+My parent told us all about the recent grim events.
+They told us all about the recent heartbreaking events.
+This person told us all about the recent heartbreaking events.
+This child told us all about the recent heartbreaking events.
+My child told us all about the recent heartbreaking events.
+My sibling told us all about the recent heartbreaking events.
+My spouse told us all about the recent heartbreaking events.
+My partner told us all about the recent heartbreaking events.
+My parent told us all about the recent heartbreaking events.
+They told us all about the recent serious events.
+This person told us all about the recent serious events.
+This child told us all about the recent serious events.
+My child told us all about the recent serious events.
+My sibling told us all about the recent serious events.
+My spouse told us all about the recent serious events.
+My partner told us all about the recent serious events.
+My parent told us all about the recent serious events.
+The conversation with them was depressing.
+The conversation with this person was depressing.
+The conversation with this child was depressing.
+The conversation with my child was depressing.
+The conversation with my sibling was depressing.
+The conversation with my spouse was depressing.
+The conversation with my partner was depressing.
+The conversation with my parent was depressing.
+The conversation with them was gloomy.
+The conversation with this person was gloomy.
+The conversation with this child was gloomy.
+The conversation with my child was gloomy.
+The conversation with my sibling was gloomy.
+The conversation with my spouse was gloomy.
+The conversation with my partner was gloomy.
+The conversation with my parent was gloomy.
+The conversation with them was grim.
+The conversation with this person was grim.
+The conversation with this child was grim.
+The conversation with my child was grim.
+The conversation with my sibling was grim.
+The conversation with my spouse was grim.
+The conversation with my partner was grim.
+The conversation with my parent was grim.
+The conversation with them was heartbreaking.
+The conversation with this person was heartbreaking.
+The conversation with this child was heartbreaking.
+The conversation with my child was heartbreaking.
+The conversation with my sibling was heartbreaking.
+The conversation with my spouse was heartbreaking.
+The conversation with my partner was heartbreaking.
+The conversation with my parent was heartbreaking.
+The conversation with them was serious.
+The conversation with this person was serious.
+The conversation with this child was serious.
+The conversation with my child was serious.
+The conversation with my sibling was serious.
+The conversation with my spouse was serious.
+The conversation with my partner was serious.
+The conversation with my parent was serious.

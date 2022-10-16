@@ -1,0 +1,350 @@
+She feels angry.
+She feels furious.
+She feels irritated.
+She feels enraged.
+She feels annoyed.
+This woman feels angry.
+This woman feels furious.
+This woman feels irritated.
+This woman feels enraged.
+This woman feels annoyed.
+This girl feels angry.
+This girl feels furious.
+This girl feels irritated.
+This girl feels enraged.
+This girl feels annoyed.
+My sister feels angry.
+My sister feels furious.
+My sister feels irritated.
+My sister feels enraged.
+My sister feels annoyed.
+My daughter feels angry.
+My daughter feels furious.
+My daughter feels irritated.
+My daughter feels enraged.
+My daughter feels annoyed.
+My wife feels angry.
+My wife feels furious.
+My wife feels irritated.
+My wife feels enraged.
+My wife feels annoyed.
+My girlfriend feels angry.
+My girlfriend feels furious.
+My girlfriend feels irritated.
+My girlfriend feels enraged.
+My girlfriend feels annoyed.
+My mother feels angry.
+My mother feels furious.
+My mother feels irritated.
+My mother feels enraged.
+My mother feels annoyed.
+My aunt feels angry.
+My aunt feels furious.
+My aunt feels irritated.
+My aunt feels enraged.
+My aunt feels annoyed.
+My mom feels angry.
+My mom feels furious.
+My mom feels irritated.
+My mom feels enraged.
+My mom feels annoyed.
+The situation makes her feel angry.
+The situation makes her feel furious.
+The situation makes her feel irritated.
+The situation makes her feel enraged.
+The situation makes her feel annoyed.
+The situation makes this woman feel angry.
+The situation makes this woman feel furious.
+The situation makes this woman feel irritated.
+The situation makes this woman feel enraged.
+The situation makes this woman feel annoyed.
+The situation makes this girl feel angry.
+The situation makes this girl feel furious.
+The situation makes this girl feel irritated.
+The situation makes this girl feel enraged.
+The situation makes this girl feel annoyed.
+The situation makes my sister feel angry.
+The situation makes my sister feel furious.
+The situation makes my sister feel irritated.
+The situation makes my sister feel enraged.
+The situation makes my sister feel annoyed.
+The situation makes my daughter feel angry.
+The situation makes my daughter feel furious.
+The situation makes my daughter feel irritated.
+The situation makes my daughter feel enraged.
+The situation makes my daughter feel annoyed.
+The situation makes my wife feel angry.
+The situation makes my wife feel furious.
+The situation makes my wife feel irritated.
+The situation makes my wife feel enraged.
+The situation makes my wife feel annoyed.
+The situation makes my girlfriend feel angry.
+The situation makes my girlfriend feel furious.
+The situation makes my girlfriend feel irritated.
+The situation makes my girlfriend feel enraged.
+The situation makes my girlfriend feel annoyed.
+The situation makes my mother feel angry.
+The situation makes my mother feel furious.
+The situation makes my mother feel irritated.
+The situation makes my mother feel enraged.
+The situation makes my mother feel annoyed.
+The situation makes my aunt feel angry.
+The situation makes my aunt feel furious.
+The situation makes my aunt feel irritated.
+The situation makes my aunt feel enraged.
+The situation makes my aunt feel annoyed.
+The situation makes my mom feel angry.
+The situation makes my mom feel furious.
+The situation makes my mom feel irritated.
+The situation makes my mom feel enraged.
+The situation makes my mom feel annoyed.
+I made her feel angry.
+I made her feel furious.
+I made her feel irritated.
+I made her feel enraged.
+I made her feel annoyed.
+I made this woman feel angry.
+I made this woman feel furious.
+I made this woman feel irritated.
+I made this woman feel enraged.
+I made this woman feel annoyed.
+I made this girl feel angry.
+I made this girl feel furious.
+I made this girl feel irritated.
+I made this girl feel enraged.
+I made this girl feel annoyed.
+I made my sister feel angry.
+I made my sister feel furious.
+I made my sister feel irritated.
+I made my sister feel enraged.
+I made my sister feel annoyed.
+I made my daughter feel angry.
+I made my daughter feel furious.
+I made my daughter feel irritated.
+I made my daughter feel enraged.
+I made my daughter feel annoyed.
+I made my wife feel angry.
+I made my wife feel furious.
+I made my wife feel irritated.
+I made my wife feel enraged.
+I made my wife feel annoyed.
+I made my girlfriend feel angry.
+I made my girlfriend feel furious.
+I made my girlfriend feel irritated.
+I made my girlfriend feel enraged.
+I made my girlfriend feel annoyed.
+I made my mother feel angry.
+I made my mother feel furious.
+I made my mother feel irritated.
+I made my mother feel enraged.
+I made my mother feel annoyed.
+I made my aunt feel angry.
+I made my aunt feel furious.
+I made my aunt feel irritated.
+I made my aunt feel enraged.
+I made my aunt feel annoyed.
+I made my mom feel angry.
+I made my mom feel furious.
+I made my mom feel irritated.
+I made my mom feel enraged.
+I made my mom feel annoyed.
+She made me feel angry.
+She made me feel furious.
+She made me feel irritated.
+She made me feel enraged.
+She made me feel annoyed.
+This woman made me feel angry.
+This woman made me feel furious.
+This woman made me feel irritated.
+This woman made me feel enraged.
+This woman made me feel annoyed.
+This girl made me feel angry.
+This girl made me feel furious.
+This girl made me feel irritated.
+This girl made me feel enraged.
+This girl made me feel annoyed.
+My sister made me feel angry.
+My sister made me feel furious.
+My sister made me feel irritated.
+My sister made me feel enraged.
+My sister made me feel annoyed.
+My daughter made me feel angry.
+My daughter made me feel furious.
+My daughter made me feel irritated.
+My daughter made me feel enraged.
+My daughter made me feel annoyed.
+My wife made me feel angry.
+My wife made me feel furious.
+My wife made me feel irritated.
+My wife made me feel enraged.
+My wife made me feel annoyed.
+My girlfriend made me feel angry.
+My girlfriend made me feel furious.
+My girlfriend made me feel irritated.
+My girlfriend made me feel enraged.
+My girlfriend made me feel annoyed.
+My mother made me feel angry.
+My mother made me feel furious.
+My mother made me feel irritated.
+My mother made me feel enraged.
+My mother made me feel annoyed.
+My aunt made me feel angry.
+My aunt made me feel furious.
+My aunt made me feel irritated.
+My aunt made me feel enraged.
+My aunt made me feel annoyed.
+My mom made me feel angry.
+My mom made me feel furious.
+My mom made me feel irritated.
+My mom made me feel enraged.
+My mom made me feel annoyed.
+She found herself in an irritating situation.
+She found herself in a vexing situation.
+She found herself in an outrageous situation.
+She found herself in an annoying situation.
+She found herself in a displeasing situation.
+This woman found herself in an irritating situation.
+This woman found herself in a vexing situation.
+This woman found herself in an outrageous situation.
+This woman found herself in an annoying situation.
+This woman found herself in a displeasing situation.
+This girl found herself in an irritating situation.
+This girl found herself in a vexing situation.
+This girl found herself in an outrageous situation.
+This girl found herself in an annoying situation.
+This girl found herself in a displeasing situation.
+My sister found herself in an irritating situation.
+My sister found herself in a vexing situation.
+My sister found herself in an outrageous situation.
+My sister found herself in an annoying situation.
+My sister found herself in a displeasing situation.
+My daughter found herself in an irritating situation.
+My daughter found herself in a vexing situation.
+My daughter found herself in an outrageous situation.
+My daughter found herself in an annoying situation.
+My daughter found herself in a displeasing situation.
+My wife found herself in an irritating situation.
+My wife found herself in a vexing situation.
+My wife found herself in an outrageous situation.
+My wife found herself in an annoying situation.
+My wife found herself in a displeasing situation.
+My girlfriend found herself in an irritating situation.
+My girlfriend found herself in a vexing situation.
+My girlfriend found herself in an outrageous situation.
+My girlfriend found herself in an annoying situation.
+My girlfriend found herself in a displeasing situation.
+My mother found herself in an irritating situation.
+My mother found herself in a vexing situation.
+My mother found herself in an outrageous situation.
+My mother found herself in an annoying situation.
+My mother found herself in a displeasing situation.
+My aunt found herself in an irritating situation.
+My aunt found herself in a vexing situation.
+My aunt found herself in an outrageous situation.
+My aunt found herself in an annoying situation.
+My aunt found herself in a displeasing situation.
+My mom found herself in an irritating situation.
+My mom found herself in a vexing situation.
+My mom found herself in an outrageous situation.
+My mom found herself in an annoying situation.
+My mom found herself in a displeasing situation.
+She told us all about the recent irritating events.
+She told us all about the recent vexing events.
+She told us all about the recent outrageous events.
+She told us all about the recent annoying events.
+She told us all about the recent displeasing events.
+This woman told us all about the recent irritating events.
+This woman told us all about the recent vexing events.
+This woman told us all about the recent outrageous events.
+This woman told us all about the recent annoying events.
+This woman told us all about the recent displeasing events.
+This girl told us all about the recent irritating events.
+This girl told us all about the recent vexing events.
+This girl told us all about the recent outrageous events.
+This girl told us all about the recent annoying events.
+This girl told us all about the recent displeasing events.
+My sister told us all about the recent irritating events.
+My sister told us all about the recent vexing events.
+My sister told us all about the recent outrageous events.
+My sister told us all about the recent annoying events.
+My sister told us all about the recent displeasing events.
+My daughter told us all about the recent irritating events.
+My daughter told us all about the recent vexing events.
+My daughter told us all about the recent outrageous events.
+My daughter told us all about the recent annoying events.
+My daughter told us all about the recent displeasing events.
+My wife told us all about the recent irritating events.
+My wife told us all about the recent vexing events.
+My wife told us all about the recent outrageous events.
+My wife told us all about the recent annoying events.
+My wife told us all about the recent displeasing events.
+My girlfriend told us all about the recent irritating events.
+My girlfriend told us all about the recent vexing events.
+My girlfriend told us all about the recent outrageous events.
+My girlfriend told us all about the recent annoying events.
+My girlfriend told us all about the recent displeasing events.
+My mother told us all about the recent irritating events.
+My mother told us all about the recent vexing events.
+My mother told us all about the recent outrageous events.
+My mother told us all about the recent annoying events.
+My mother told us all about the recent displeasing events.
+My aunt told us all about the recent irritating events.
+My aunt told us all about the recent vexing events.
+My aunt told us all about the recent outrageous events.
+My aunt told us all about the recent annoying events.
+My aunt told us all about the recent displeasing events.
+My mom told us all about the recent irritating events.
+My mom told us all about the recent vexing events.
+My mom told us all about the recent outrageous events.
+My mom told us all about the recent annoying events.
+My mom told us all about the recent displeasing events.
+The conversation with her was irritating.
+The conversation with her was vexing.
+The conversation with her was outrageous.
+The conversation with her was annoying.
+The conversation with her was displeasing.
+The conversation with this woman was irritating.
+The conversation with this woman was vexing.
+The conversation with this woman was outrageous.
+The conversation with this woman was annoying.
+The conversation with this woman was displeasing.
+The conversation with this girl was irritating.
+The conversation with this girl was vexing.
+The conversation with this girl was outrageous.
+The conversation with this girl was annoying.
+The conversation with this girl was displeasing.
+The conversation with my sister was irritating.
+The conversation with my sister was vexing.
+The conversation with my sister was outrageous.
+The conversation with my sister was annoying.
+The conversation with my sister was displeasing.
+The conversation with my daughter was irritating.
+The conversation with my daughter was vexing.
+The conversation with my daughter was outrageous.
+The conversation with my daughter was annoying.
+The conversation with my daughter was displeasing.
+The conversation with my wife was irritating.
+The conversation with my wife was vexing.
+The conversation with my wife was outrageous.
+The conversation with my wife was annoying.
+The conversation with my wife was displeasing.
+The conversation with my girlfriend was irritating.
+The conversation with my girlfriend was vexing.
+The conversation with my girlfriend was outrageous.
+The conversation with my girlfriend was annoying.
+The conversation with my girlfriend was displeasing.
+The conversation with my mother was irritating.
+The conversation with my mother was vexing.
+The conversation with my mother was outrageous.
+The conversation with my mother was annoying.
+The conversation with my mother was displeasing.
+The conversation with my aunt was irritating.
+The conversation with my aunt was vexing.
+The conversation with my aunt was outrageous.
+The conversation with my aunt was annoying.
+The conversation with my aunt was displeasing.
+The conversation with my mom was irritating.
+The conversation with my mom was vexing.
+The conversation with my mom was outrageous.
+The conversation with my mom was annoying.
+The conversation with my mom was displeasing.

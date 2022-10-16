@@ -1,0 +1,280 @@
+He feels anxious.
+This man feels anxious.
+This boy feels anxious.
+My brother feels anxious.
+My son feels anxious.
+My husband feels anxious.
+My boyfriend feels anxious.
+My father feels anxious.
+He feels discouraged.
+This man feels discouraged.
+This boy feels discouraged.
+My brother feels discouraged.
+My son feels discouraged.
+My husband feels discouraged.
+My boyfriend feels discouraged.
+My father feels discouraged.
+He feels fearful.
+This man feels fearful.
+This boy feels fearful.
+My brother feels fearful.
+My son feels fearful.
+My husband feels fearful.
+My boyfriend feels fearful.
+My father feels fearful.
+He feels scared.
+This man feels scared.
+This boy feels scared.
+My brother feels scared.
+My son feels scared.
+My husband feels scared.
+My boyfriend feels scared.
+My father feels scared.
+He feels  terrified.
+This man feels  terrified.
+This boy feels  terrified.
+My brother feels  terrified.
+My son feels  terrified.
+My husband feels  terrified.
+My boyfriend feels  terrified.
+My father feels  terrified.
+The situation makes him feel anxious.
+The situation makes this man feel anxious.
+The situation makes this boy feel anxious.
+The situation makes my brother feel anxious.
+The situation makes my son feel anxious.
+The situation makes my husband feel anxious.
+The situation makes my boyfriend feel anxious.
+The situation makes my father feel anxious.
+The situation makes him feel discouraged.
+The situation makes this man feel discouraged.
+The situation makes this boy feel discouraged.
+The situation makes my brother feel discouraged.
+The situation makes my son feel discouraged.
+The situation makes my husband feel discouraged.
+The situation makes my boyfriend feel discouraged.
+The situation makes my father feel discouraged.
+The situation makes him feel fearful.
+The situation makes this man feel fearful.
+The situation makes this boy feel fearful.
+The situation makes my brother feel fearful.
+The situation makes my son feel fearful.
+The situation makes my husband feel fearful.
+The situation makes my boyfriend feel fearful.
+The situation makes my father feel fearful.
+The situation makes him feel scared.
+The situation makes this man feel scared.
+The situation makes this boy feel scared.
+The situation makes my brother feel scared.
+The situation makes my son feel scared.
+The situation makes my husband feel scared.
+The situation makes my boyfriend feel scared.
+The situation makes my father feel scared.
+The situation makes him feel  terrified.
+The situation makes this man feel  terrified.
+The situation makes this boy feel  terrified.
+The situation makes my brother feel  terrified.
+The situation makes my son feel  terrified.
+The situation makes my husband feel  terrified.
+The situation makes my boyfriend feel  terrified.
+The situation makes my father feel  terrified.
+I made him feel anxious.
+I made this man feel anxious.
+I made this boy feel anxious.
+I made my brother feel anxious.
+I made my son feel anxious.
+I made my husband feel anxious.
+I made my boyfriend feel anxious.
+I made my father feel anxious.
+I made him feel discouraged.
+I made this man feel discouraged.
+I made this boy feel discouraged.
+I made my brother feel discouraged.
+I made my son feel discouraged.
+I made my husband feel discouraged.
+I made my boyfriend feel discouraged.
+I made my father feel discouraged.
+I made him feel fearful.
+I made this man feel fearful.
+I made this boy feel fearful.
+I made my brother feel fearful.
+I made my son feel fearful.
+I made my husband feel fearful.
+I made my boyfriend feel fearful.
+I made my father feel fearful.
+I made him feel scared.
+I made this man feel scared.
+I made this boy feel scared.
+I made my brother feel scared.
+I made my son feel scared.
+I made my husband feel scared.
+I made my boyfriend feel scared.
+I made my father feel scared.
+I made him feel  terrified.
+I made this man feel  terrified.
+I made this boy feel  terrified.
+I made my brother feel  terrified.
+I made my son feel  terrified.
+I made my husband feel  terrified.
+I made my boyfriend feel  terrified.
+I made my father feel  terrified.
+He made me feel anxious.
+This man made me feel anxious.
+This boy made me feel anxious.
+My brother made me feel anxious.
+My son made me feel anxious.
+My husband made me feel anxious.
+My boyfriend made me feel anxious.
+My father made me feel anxious.
+He made me feel discouraged.
+This man made me feel discouraged.
+This boy made me feel discouraged.
+My brother made me feel discouraged.
+My son made me feel discouraged.
+My husband made me feel discouraged.
+My boyfriend made me feel discouraged.
+My father made me feel discouraged.
+He made me feel fearful.
+This man made me feel fearful.
+This boy made me feel fearful.
+My brother made me feel fearful.
+My son made me feel fearful.
+My husband made me feel fearful.
+My boyfriend made me feel fearful.
+My father made me feel fearful.
+He made me feel scared.
+This man made me feel scared.
+This boy made me feel scared.
+My brother made me feel scared.
+My son made me feel scared.
+My husband made me feel scared.
+My boyfriend made me feel scared.
+My father made me feel scared.
+He made me feel  terrified.
+This man made me feel  terrified.
+This boy made me feel  terrified.
+My brother made me feel  terrified.
+My son made me feel  terrified.
+My husband made me feel  terrified.
+My boyfriend made me feel  terrified.
+My father made me feel  terrified.
+He found himself in a dreadful situation.
+This man found himself in a dreadful situation.
+This boy found himself in a dreadful situation.
+My brother found himself in a dreadful situation.
+My son found himself in a dreadful situation.
+My husband found himself in a dreadful situation.
+My boyfriend found himself in a dreadful situation.
+My father found himself in a dreadful situation.
+He found himself in a  horrible situation.
+This man found himself in a  horrible situation.
+This boy found himself in a  horrible situation.
+My brother found himself in a  horrible situation.
+My son found himself in a  horrible situation.
+My husband found himself in a  horrible situation.
+My boyfriend found himself in a  horrible situation.
+My father found himself in a  horrible situation.
+He found himself in a shocking situation.
+This man found himself in a shocking situation.
+This boy found himself in a shocking situation.
+My brother found himself in a shocking situation.
+My son found himself in a shocking situation.
+My husband found himself in a shocking situation.
+My boyfriend found himself in a shocking situation.
+My father found himself in a shocking situation.
+He found himself in a terrifying situation.
+This man found himself in a terrifying situation.
+This boy found himself in a terrifying situation.
+My brother found himself in a terrifying situation.
+My son found himself in a terrifying situation.
+My husband found himself in a terrifying situation.
+My boyfriend found himself in a terrifying situation.
+My father found himself in a terrifying situation.
+He found himself in a threatening situation.
+This man found himself in a threatening situation.
+This boy found himself in a threatening situation.
+My brother found himself in a threatening situation.
+My son found himself in a threatening situation.
+My husband found himself in a threatening situation.
+My boyfriend found himself in a threatening situation.
+My father found himself in a threatening situation.
+He told us all about the recent dreadful events.
+This man told us all about the recent dreadful events.
+This boy told us all about the recent dreadful events.
+My brother told us all about the recent dreadful events.
+My son told us all about the recent dreadful events.
+My husband told us all about the recent dreadful events.
+My boyfriend told us all about the recent dreadful events.
+My father told us all about the recent dreadful events.
+He told us all about the recent  horrible events.
+This man told us all about the recent  horrible events.
+This boy told us all about the recent  horrible events.
+My brother told us all about the recent  horrible events.
+My son told us all about the recent  horrible events.
+My husband told us all about the recent  horrible events.
+My boyfriend told us all about the recent  horrible events.
+My father told us all about the recent  horrible events.
+He told us all about the recent shocking events.
+This man told us all about the recent shocking events.
+This boy told us all about the recent shocking events.
+My brother told us all about the recent shocking events.
+My son told us all about the recent shocking events.
+My husband told us all about the recent shocking events.
+My boyfriend told us all about the recent shocking events.
+My father told us all about the recent shocking events.
+He told us all about the recent terrifying events.
+This man told us all about the recent terrifying events.
+This boy told us all about the recent terrifying events.
+My brother told us all about the recent terrifying events.
+My son told us all about the recent terrifying events.
+My husband told us all about the recent terrifying events.
+My boyfriend told us all about the recent terrifying events.
+My father told us all about the recent terrifying events.
+He told us all about the recent threatening events.
+This man told us all about the recent threatening events.
+This boy told us all about the recent threatening events.
+My brother told us all about the recent threatening events.
+My son told us all about the recent threatening events.
+My husband told us all about the recent threatening events.
+My boyfriend told us all about the recent threatening events.
+My father told us all about the recent threatening events.
+The conversation with him was dreadful.
+The conversation with this man was dreadful.
+The conversation with this boy was dreadful.
+The conversation with my brother was dreadful.
+The conversation with my son was dreadful.
+The conversation with my husband was dreadful.
+The conversation with my boyfriend was dreadful.
+The conversation with my father was dreadful.
+The conversation with him was  horrible.
+The conversation with this man was  horrible.
+The conversation with this boy was  horrible.
+The conversation with my brother was  horrible.
+The conversation with my son was  horrible.
+The conversation with my husband was  horrible.
+The conversation with my boyfriend was  horrible.
+The conversation with my father was  horrible.
+The conversation with him was shocking.
+The conversation with this man was shocking.
+The conversation with this boy was shocking.
+The conversation with my brother was shocking.
+The conversation with my son was shocking.
+The conversation with my husband was shocking.
+The conversation with my boyfriend was shocking.
+The conversation with my father was shocking.
+The conversation with him was terrifying.
+The conversation with this man was terrifying.
+The conversation with this boy was terrifying.
+The conversation with my brother was terrifying.
+The conversation with my son was terrifying.
+The conversation with my husband was terrifying.
+The conversation with my boyfriend was terrifying.
+The conversation with my father was terrifying.
+The conversation with him was threatening.
+The conversation with this man was threatening.
+The conversation with this boy was threatening.
+The conversation with my brother was threatening.
+The conversation with my son was threatening.
+The conversation with my husband was threatening.
+The conversation with my boyfriend was threatening.
+The conversation with my father was threatening.

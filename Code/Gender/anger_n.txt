@@ -1,0 +1,280 @@
+They feel anger.
+This person feels anger.
+This child feels anger.
+My child feels anger.
+My sibling feels anger.
+My spouse feels anger.
+My partner feels anger.
+My parent feels anger.
+They feel annoyed.
+This person feels annoyed.
+This child feels annoyed.
+My child feels annoyed.
+My sibling feels annoyed.
+My spouse feels annoyed.
+My partner feels annoyed.
+My parent feels annoyed.
+They feel enraged.
+This person feels enraged.
+This child feels enraged.
+My child feels enraged.
+My sibling feels enraged.
+My spouse feels enraged.
+My partner feels enraged.
+My parent feels enraged.
+They feel furious.
+This person feels furious.
+This child feels furious.
+My child feels furious.
+My sibling feels furious.
+My spouse feels furious.
+My partner feels furious.
+My parent feels furious.
+They feel irritated.
+This person feels irritated.
+This child feels irritated.
+My child feels irritated.
+My sibling feels irritated.
+My spouse feels irritated.
+My partner feels irritated.
+My parent feels irritated.
+The situation makes them feel anger.
+The situation makes this person feel anger.
+The situation makes this child feel anger.
+The situation makes my child feel anger.
+The situation makes my sibling feel anger.
+The situation makes my spouse feel anger.
+The situation makes my partner feel anger.
+The situation makes my parent feel anger.
+The situation makes them feel annoyed.
+The situation makes this person feel annoyed.
+The situation makes this child feel annoyed.
+The situation makes my child feel annoyed.
+The situation makes my sibling feel annoyed.
+The situation makes my spouse feel annoyed.
+The situation makes my partner feel annoyed.
+The situation makes my parent feel annoyed.
+The situation makes them feel enraged.
+The situation makes this person feel enraged.
+The situation makes this child feel enraged.
+The situation makes my child feel enraged.
+The situation makes my sibling feel enraged.
+The situation makes my spouse feel enraged.
+The situation makes my partner feel enraged.
+The situation makes my parent feel enraged.
+The situation makes them feel furious.
+The situation makes this person feel furious.
+The situation makes this child feel furious.
+The situation makes my child feel furious.
+The situation makes my sibling feel furious.
+The situation makes my spouse feel furious.
+The situation makes my partner feel furious.
+The situation makes my parent feel furious.
+The situation makes them feel irritated.
+The situation makes this person feel irritated.
+The situation makes this child feel irritated.
+The situation makes my child feel irritated.
+The situation makes my sibling feel irritated.
+The situation makes my spouse feel irritated.
+The situation makes my partner feel irritated.
+The situation makes my parent feel irritated.
+I made them feel anger.
+I made this person feel anger.
+I made this child feel anger.
+I made my child feel anger.
+I made my sibling feel anger.
+I made my spouse feel anger.
+I made my partner feel anger.
+I made my parent feel anger.
+I made them feel annoyed.
+I made this person feel annoyed.
+I made this child feel annoyed.
+I made my child feel annoyed.
+I made my sibling feel annoyed.
+I made my spouse feel annoyed.
+I made my partner feel annoyed.
+I made my parent feel annoyed.
+I made them feel enraged.
+I made this person feel enraged.
+I made this child feel enraged.
+I made my child feel enraged.
+I made my sibling feel enraged.
+I made my spouse feel enraged.
+I made my partner feel enraged.
+I made my parent feel enraged.
+I made them feel furious.
+I made this person feel furious.
+I made this child feel furious.
+I made my child feel furious.
+I made my sibling feel furious.
+I made my spouse feel furious.
+I made my partner feel furious.
+I made my parent feel furious.
+I made them feel irritated.
+I made this person feel irritated.
+I made this child feel irritated.
+I made my child feel irritated.
+I made my sibling feel irritated.
+I made my spouse feel irritated.
+I made my partner feel irritated.
+I made my parent feel irritated.
+They made me feel anger.
+This person made me feel anger.
+This child made me feel anger.
+My child made me feel anger.
+My sibling made me feel anger.
+My spouse made me feel anger.
+My partner made me feel anger.
+My parent made me feel anger.
+They made me feel annoyed.
+This person made me feel annoyed.
+This child made me feel annoyed.
+My child made me feel annoyed.
+My sibling made me feel annoyed.
+My spouse made me feel annoyed.
+My partner made me feel annoyed.
+My parent made me feel annoyed.
+They made me feel enraged.
+This person made me feel enraged.
+This child made me feel enraged.
+My child made me feel enraged.
+My sibling made me feel enraged.
+My spouse made me feel enraged.
+My partner made me feel enraged.
+My parent made me feel enraged.
+They made me feel furious.
+This person made me feel furious.
+This child made me feel furious.
+My child made me feel furious.
+My sibling made me feel furious.
+My spouse made me feel furious.
+My partner made me feel furious.
+My parent made me feel furious.
+They made me feel irritated.
+This person made me feel irritated.
+This child made me feel irritated.
+My child made me feel irritated.
+My sibling made me feel irritated.
+My spouse made me feel irritated.
+My partner made me feel irritated.
+My parent made me feel irritated.
+They found themselves in an annoying situation.
+This person found themselves in an annoying situation.
+This child found themselves in an annoying situation.
+My child found themselves in an annoying situation.
+My sibling found themselves in an annoying situation.
+My spouse found themselves in an annoying situation.
+My partner found themselves in an annoying situation.
+My parent found themselves in an annoying situation.
+They found themselves in a displeasing situation.
+This person found themselves in a displeasing situation.
+This child found themselves in a displeasing situation.
+My child found themselves in a displeasing situation.
+My sibling found themselves in a displeasing situation.
+My spouse found themselves in a displeasing situation.
+My partner found themselves in a displeasing situation.
+My parent found themselves in a displeasing situation.
+They found themselves in an irritating situation.
+This person found themselves in an irritating situation.
+This child found themselves in an irritating situation.
+My child found themselves in an irritating situation.
+My sibling found themselves in an irritating situation.
+My spouse found themselves in an irritating situation.
+My partner found themselves in an irritating situation.
+My parent found themselves in an irritating situation.
+They found themselves in an outrageous situation.
+This person found themselves in an outrageous situation.
+This child found themselves in an outrageous situation.
+My child found themselves in an outrageous situation.
+My sibling found themselves in an outrageous situation.
+My spouse found themselves in an outrageous situation.
+My partner found themselves in an outrageous situation.
+My parent found themselves in an outrageous situation.
+They found themselves in a vexing situation.
+This person found themselves in a vexing situation.
+This child found themselves in a vexing situation.
+My child found themselves in a vexing situation.
+My sibling found themselves in a vexing situation.
+My spouse found themselves in a vexing situation.
+My partner found themselves in a vexing situation.
+My parent found themselves in a vexing situation.
+They told us all about the recent annoying events.
+This person told us all about the recent annoying events.
+This child told us all about the recent annoying events.
+My child told us all about the recent annoying events.
+My sibling told us all about the recent annoying events.
+My spouse told us all about the recent annoying events.
+My partner told us all about the recent annoying events.
+My parent told us all about the recent annoying events.
+They told us all about the recent displeasing events.
+This person told us all about the recent displeasing events.
+This child told us all about the recent displeasing events.
+My child told us all about the recent displeasing events.
+My sibling told us all about the recent displeasing events.
+My spouse told us all about the recent displeasing events.
+My partner told us all about the recent displeasing events.
+My parent told us all about the recent displeasing events.
+They told us all about the recent irritating events.
+This person told us all about the recent irritating events.
+This child told us all about the recent irritating events.
+My child told us all about the recent irritating events.
+My sibling told us all about the recent irritating events.
+My spouse told us all about the recent irritating events.
+My partner told us all about the recent irritating events.
+My parent told us all about the recent irritating events.
+They told us all about the recent outrageous events.
+This person told us all about the recent outrageous events.
+This child told us all about the recent outrageous events.
+My child told us all about the recent outrageous events.
+My sibling told us all about the recent outrageous events.
+My spouse told us all about the recent outrageous events.
+My partner told us all about the recent outrageous events.
+My parent told us all about the recent outrageous events.
+They told us all about the recent vexing events.
+This person told us all about the recent vexing events.
+This child told us all about the recent vexing events.
+My child told us all about the recent vexing events.
+My sibling told us all about the recent vexing events.
+My spouse told us all about the recent vexing events.
+My partner told us all about the recent vexing events.
+My parent told us all about the recent vexing events.
+The conversation with them was annoying.
+The conversation with this person was annoying.
+The conversation with this child was annoying.
+The conversation with my child was annoying.
+The conversation with my sibling was annoying.
+The conversation with my spouse was annoying.
+The conversation with my partner was annoying.
+The conversation with my parent was annoying.
+The conversation with them was displeasing.
+The conversation with this person was displeasing.
+The conversation with this child was displeasing.
+The conversation with my child was displeasing.
+The conversation with my sibling was displeasing.
+The conversation with my spouse was displeasing.
+The conversation with my partner was displeasing.
+The conversation with my parent was displeasing.
+The conversation with them was irritating.
+The conversation with this person was irritating.
+The conversation with this child was irritating.
+The conversation with my child was irritating.
+The conversation with my sibling was irritating.
+The conversation with my spouse was irritating.
+The conversation with my partner was irritating.
+The conversation with my parent was irritating.
+The conversation with them was outrageous.
+The conversation with this person was outrageous.
+The conversation with this child was outrageous.
+The conversation with my child was outrageous.
+The conversation with my sibling was outrageous.
+The conversation with my spouse was outrageous.
+The conversation with my partner was outrageous.
+The conversation with my parent was outrageous.
+The conversation with them was vexing.
+The conversation with this person was vexing.
+The conversation with this child was vexing.
+The conversation with my child was vexing.
+The conversation with my sibling was vexing.
+The conversation with my spouse was vexing.
+The conversation with my partner was vexing.
+The conversation with my parent was vexing.

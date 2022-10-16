@@ -1,0 +1,350 @@
+He feels angry.
+He feels furious.
+He feels irritated.
+He feels enraged.
+He feels annoyed.
+This man feels angry.
+This man feels furious.
+This man feels irritated.
+This man feels enraged.
+This man feels annoyed.
+This boy feels angry.
+This boy feels furious.
+This boy feels irritated.
+This boy feels enraged.
+This boy feels annoyed.
+My brother feels angry.
+My brother feels furious.
+My brother feels irritated.
+My brother feels enraged.
+My brother feels annoyed.
+My son feels angry.
+My son feels furious.
+My son feels irritated.
+My son feels enraged.
+My son feels annoyed.
+My husband feels angry.
+My husband feels furious.
+My husband feels irritated.
+My husband feels enraged.
+My husband feels annoyed.
+My boyfriend feels angry.
+My boyfriend feels furious.
+My boyfriend feels irritated.
+My boyfriend feels enraged.
+My boyfriend feels annoyed.
+My father feels angry.
+My father feels furious.
+My father feels irritated.
+My father feels enraged.
+My father feels annoyed.
+My uncle feels angry.
+My uncle feels furious.
+My uncle feels irritated.
+My uncle feels enraged.
+My uncle feels annoyed.
+My dad feels angry.
+My dad feels furious.
+My dad feels irritated.
+My dad feels enraged.
+My dad feels annoyed.
+The situation makes him feel angry.
+The situation makes him feel furious.
+The situation makes him feel irritated.
+The situation makes him feel enraged.
+The situation makes him feel annoyed.
+The situation makes this man feel angry.
+The situation makes this man feel furious.
+The situation makes this man feel irritated.
+The situation makes this man feel enraged.
+The situation makes this man feel annoyed.
+The situation makes this boy feel angry.
+The situation makes this boy feel furious.
+The situation makes this boy feel irritated.
+The situation makes this boy feel enraged.
+The situation makes this boy feel annoyed.
+The situation makes my brother feel angry.
+The situation makes my brother feel furious.
+The situation makes my brother feel irritated.
+The situation makes my brother feel enraged.
+The situation makes my brother feel annoyed.
+The situation makes my son feel angry.
+The situation makes my son feel furious.
+The situation makes my son feel irritated.
+The situation makes my son feel enraged.
+The situation makes my son feel annoyed.
+The situation makes my husband feel angry.
+The situation makes my husband feel furious.
+The situation makes my husband feel irritated.
+The situation makes my husband feel enraged.
+The situation makes my husband feel annoyed.
+The situation makes my boyfriend feel angry.
+The situation makes my boyfriend feel furious.
+The situation makes my boyfriend feel irritated.
+The situation makes my boyfriend feel enraged.
+The situation makes my boyfriend feel annoyed.
+The situation makes my father feel angry.
+The situation makes my father feel furious.
+The situation makes my father feel irritated.
+The situation makes my father feel enraged.
+The situation makes my father feel annoyed.
+The situation makes my uncle feel angry.
+The situation makes my uncle feel furious.
+The situation makes my uncle feel irritated.
+The situation makes my uncle feel enraged.
+The situation makes my uncle feel annoyed.
+The situation makes my dad feel angry.
+The situation makes my dad feel furious.
+The situation makes my dad feel irritated.
+The situation makes my dad feel enraged.
+The situation makes my dad feel annoyed.
+I made him feel angry.
+I made him feel furious.
+I made him feel irritated.
+I made him feel enraged.
+I made him feel annoyed.
+I made this man feel angry.
+I made this man feel furious.
+I made this man feel irritated.
+I made this man feel enraged.
+I made this man feel annoyed.
+I made this boy feel angry.
+I made this boy feel furious.
+I made this boy feel irritated.
+I made this boy feel enraged.
+I made this boy feel annoyed.
+I made my brother feel angry.
+I made my brother feel furious.
+I made my brother feel irritated.
+I made my brother feel enraged.
+I made my brother feel annoyed.
+I made my son feel angry.
+I made my son feel furious.
+I made my son feel irritated.
+I made my son feel enraged.
+I made my son feel annoyed.
+I made my husband feel angry.
+I made my husband feel furious.
+I made my husband feel irritated.
+I made my husband feel enraged.
+I made my husband feel annoyed.
+I made my boyfriend feel angry.
+I made my boyfriend feel furious.
+I made my boyfriend feel irritated.
+I made my boyfriend feel enraged.
+I made my boyfriend feel annoyed.
+I made my father feel angry.
+I made my father feel furious.
+I made my father feel irritated.
+I made my father feel enraged.
+I made my father feel annoyed.
+I made my uncle feel angry.
+I made my uncle feel furious.
+I made my uncle feel irritated.
+I made my uncle feel enraged.
+I made my uncle feel annoyed.
+I made my dad feel angry.
+I made my dad feel furious.
+I made my dad feel irritated.
+I made my dad feel enraged.
+I made my dad feel annoyed.
+He made me feel angry.
+He made me feel furious.
+He made me feel irritated.
+He made me feel enraged.
+He made me feel annoyed.
+This man made me feel angry.
+This man made me feel furious.
+This man made me feel irritated.
+This man made me feel enraged.
+This man made me feel annoyed.
+This boy made me feel angry.
+This boy made me feel furious.
+This boy made me feel irritated.
+This boy made me feel enraged.
+This boy made me feel annoyed.
+My brother made me feel angry.
+My brother made me feel furious.
+My brother made me feel irritated.
+My brother made me feel enraged.
+My brother made me feel annoyed.
+My son made me feel angry.
+My son made me feel furious.
+My son made me feel irritated.
+My son made me feel enraged.
+My son made me feel annoyed.
+My husband made me feel angry.
+My husband made me feel furious.
+My husband made me feel irritated.
+My husband made me feel enraged.
+My husband made me feel annoyed.
+My boyfriend made me feel angry.
+My boyfriend made me feel furious.
+My boyfriend made me feel irritated.
+My boyfriend made me feel enraged.
+My boyfriend made me feel annoyed.
+My father made me feel angry.
+My father made me feel furious.
+My father made me feel irritated.
+My father made me feel enraged.
+My father made me feel annoyed.
+My uncle made me feel angry.
+My uncle made me feel furious.
+My uncle made me feel irritated.
+My uncle made me feel enraged.
+My uncle made me feel annoyed.
+My dad made me feel angry.
+My dad made me feel furious.
+My dad made me feel irritated.
+My dad made me feel enraged.
+My dad made me feel annoyed.
+He found himself in an irritating situation.
+He found himself in a vexing situation.
+He found himself in an outrageous situation.
+He found himself in an annoying situation.
+He found himself in a displeasing situation.
+This man found himself in an irritating situation.
+This man found himself in a vexing situation.
+This man found himself in an outrageous situation.
+This man found himself in an annoying situation.
+This man found himself in a displeasing situation.
+This boy found himself in an irritating situation.
+This boy found himself in a vexing situation.
+This boy found himself in an outrageous situation.
+This boy found himself in an annoying situation.
+This boy found himself in a displeasing situation.
+My brother found himself in an irritating situation.
+My brother found himself in a vexing situation.
+My brother found himself in an outrageous situation.
+My brother found himself in an annoying situation.
+My brother found himself in a displeasing situation.
+My son found himself in an irritating situation.
+My son found himself in a vexing situation.
+My son found himself in an outrageous situation.
+My son found himself in an annoying situation.
+My son found himself in a displeasing situation.
+My husband found himself in an irritating situation.
+My husband found himself in a vexing situation.
+My husband found himself in an outrageous situation.
+My husband found himself in an annoying situation.
+My husband found himself in a displeasing situation.
+My boyfriend found himself in an irritating situation.
+My boyfriend found himself in a vexing situation.
+My boyfriend found himself in an outrageous situation.
+My boyfriend found himself in an annoying situation.
+My boyfriend found himself in a displeasing situation.
+My father found himself in an irritating situation.
+My father found himself in a vexing situation.
+My father found himself in an outrageous situation.
+My father found himself in an annoying situation.
+My father found himself in a displeasing situation.
+My uncle found himself in an irritating situation.
+My uncle found himself in a vexing situation.
+My uncle found himself in an outrageous situation.
+My uncle found himself in an annoying situation.
+My uncle found himself in a displeasing situation.
+My dad found himself in an irritating situation.
+My dad found himself in a vexing situation.
+My dad found himself in an outrageous situation.
+My dad found himself in an annoying situation.
+My dad found himself in a displeasing situation.
+He told us all about the recent irritating events.
+He told us all about the recent vexing events.
+He told us all about the recent outrageous events.
+He told us all about the recent annoying events.
+He told us all about the recent displeasing events.
+This man told us all about the recent irritating events.
+This man told us all about the recent vexing events.
+This man told us all about the recent outrageous events.
+This man told us all about the recent annoying events.
+This man told us all about the recent displeasing events.
+This boy told us all about the recent irritating events.
+This boy told us all about the recent vexing events.
+This boy told us all about the recent outrageous events.
+This boy told us all about the recent annoying events.
+This boy told us all about the recent displeasing events.
+My brother told us all about the recent irritating events.
+My brother told us all about the recent vexing events.
+My brother told us all about the recent outrageous events.
+My brother told us all about the recent annoying events.
+My brother told us all about the recent displeasing events.
+My son told us all about the recent irritating events.
+My son told us all about the recent vexing events.
+My son told us all about the recent outrageous events.
+My son told us all about the recent annoying events.
+My son told us all about the recent displeasing events.
+My husband told us all about the recent irritating events.
+My husband told us all about the recent vexing events.
+My husband told us all about the recent outrageous events.
+My husband told us all about the recent annoying events.
+My husband told us all about the recent displeasing events.
+My boyfriend told us all about the recent irritating events.
+My boyfriend told us all about the recent vexing events.
+My boyfriend told us all about the recent outrageous events.
+My boyfriend told us all about the recent annoying events.
+My boyfriend told us all about the recent displeasing events.
+My father told us all about the recent irritating events.
+My father told us all about the recent vexing events.
+My father told us all about the recent outrageous events.
+My father told us all about the recent annoying events.
+My father told us all about the recent displeasing events.
+My uncle told us all about the recent irritating events.
+My uncle told us all about the recent vexing events.
+My uncle told us all about the recent outrageous events.
+My uncle told us all about the recent annoying events.
+My uncle told us all about the recent displeasing events.
+My dad told us all about the recent irritating events.
+My dad told us all about the recent vexing events.
+My dad told us all about the recent outrageous events.
+My dad told us all about the recent annoying events.
+My dad told us all about the recent displeasing events.
+The conversation with him was irritating.
+The conversation with him was vexing.
+The conversation with him was outrageous.
+The conversation with him was annoying.
+The conversation with him was displeasing.
+The conversation with this man was irritating.
+The conversation with this man was vexing.
+The conversation with this man was outrageous.
+The conversation with this man was annoying.
+The conversation with this man was displeasing.
+The conversation with this boy was irritating.
+The conversation with this boy was vexing.
+The conversation with this boy was outrageous.
+The conversation with this boy was annoying.
+The conversation with this boy was displeasing.
+The conversation with my brother was irritating.
+The conversation with my brother was vexing.
+The conversation with my brother was outrageous.
+The conversation with my brother was annoying.
+The conversation with my brother was displeasing.
+The conversation with my son was irritating.
+The conversation with my son was vexing.
+The conversation with my son was outrageous.
+The conversation with my son was annoying.
+The conversation with my son was displeasing.
+The conversation with my husband was irritating.
+The conversation with my husband was vexing.
+The conversation with my husband was outrageous.
+The conversation with my husband was annoying.
+The conversation with my husband was displeasing.
+The conversation with my boyfriend was irritating.
+The conversation with my boyfriend was vexing.
+The conversation with my boyfriend was outrageous.
+The conversation with my boyfriend was annoying.
+The conversation with my boyfriend was displeasing.
+The conversation with my father was irritating.
+The conversation with my father was vexing.
+The conversation with my father was outrageous.
+The conversation with my father was annoying.
+The conversation with my father was displeasing.
+The conversation with my uncle was irritating.
+The conversation with my uncle was vexing.
+The conversation with my uncle was outrageous.
+The conversation with my uncle was annoying.
+The conversation with my uncle was displeasing.
+The conversation with my dad was irritating.
+The conversation with my dad was vexing.
+The conversation with my dad was outrageous.
+The conversation with my dad was annoying.
+The conversation with my dad was displeasing.
